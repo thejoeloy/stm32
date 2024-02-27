@@ -1,0 +1,2 @@
+../Core/Src/l298n.c:24:6:l298n_init	1
+../Core/Src/l298n.c:29:6:l298n_setMotor	28
