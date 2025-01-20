@@ -1,0 +1,4 @@
+../Core/Src/sd.c:17:6:sd_card_mount	2
+../Core/Src/sd.c:31:6:sd_card_unmount	1
+../Core/Src/sd.c:36:6:sd_card_read	3
+../Core/Src/sd.c:66:6:sd_card_write	3

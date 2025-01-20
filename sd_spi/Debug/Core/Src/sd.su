@@ -1,0 +1,4 @@
+../Core/Src/sd.c:17:6:sd_card_mount	8	static
+../Core/Src/sd.c:31:6:sd_card_unmount	8	static
+../Core/Src/sd.c:36:6:sd_card_read	152	static
+../Core/Src/sd.c:66:6:sd_card_write	24	static
