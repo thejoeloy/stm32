@@ -1,4 +1,0 @@
-../Core/Src/sd.c:23:6:sd_card_init	2
-../Core/Src/sd.c:65:6:start_recording	2
-../Core/Src/sd.c:103:6:write2wave_file	4
-../Core/Src/sd.c:126:6:stop_recording	2
